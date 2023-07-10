@@ -1,2 +1,2 @@
-# esperenza
-Plateforme de gestion de caméra IP pour TPE/PME/ETI/GE
+# mia
+Assistante vocal basé sur l'IA
